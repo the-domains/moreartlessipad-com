@@ -1,0 +1,28 @@
+name: moreartlessipad.com
+favicon: null
+layout_spectrum: 0.322938047349453
+typography_spectrum: 0.5792140436824411
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.2158277938142419
+  lightness: 0.3995962617918849
+  saturation: 0.521206526318565
+  rhythmicContrast: 0.24601194029673934
+purpose: []
